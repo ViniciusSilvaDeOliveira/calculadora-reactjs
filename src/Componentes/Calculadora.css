@@ -16,3 +16,21 @@ button:hover {
     border-radius: 1em;
     padding: 1em;
 }
+
+.orange {
+    background-color: #FF9500;
+    color: white;
+}
+
+.gray {
+    background-color: #505050;
+    color: white;
+}
+
+.resultado {
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin: 1em;
+    font-size: 3.5em;
+}
